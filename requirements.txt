@@ -90,6 +90,7 @@ qrcode==7.4.2
 referencing==0.32.1
 regex==2023.8.8
 reportlab==4.0.4
+requests==2.31.0
 requests-toolbelt==0.10.1
 rich==13.7.0
 rpds-py==0.17.1
@@ -103,7 +104,7 @@ smmap==5.0.1
 soupsieve==2.5
 SQLAlchemy==2.0.21
 sqlparse==0.4.4
-streamlit==1.30.0
+streamlit==1.32.0
 streamlit-folium==0.18.0
 streamlit-lottie==0.0.5
 streamlit-option-menu==0.3.12
